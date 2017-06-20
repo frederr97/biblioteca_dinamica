@@ -27,9 +27,8 @@ E isso é tudo.
 
 
 
+*Frederico Resende*
 
-Frederico Resende
+*Disciplina de Sistemas Operacionais*
 
-Disciplina de Sistemas Operacionais
-
-Prof. Flávio Luiz Schiavoni
+*Prof. Flávio Luiz Schiavoni*
