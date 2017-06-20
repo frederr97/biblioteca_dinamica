@@ -19,7 +19,7 @@ make run
 - Para remover os arquivos criados nos passos acima:
 
 `
-make run
+make clean
 `
 
 
