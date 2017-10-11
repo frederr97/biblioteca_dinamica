@@ -24,5 +24,5 @@ make clean
 
 
 *Frederico Resende*<br/>
-*Disciplina de Sistemas Operacionais*>br/>
+*Disciplina de Sistemas Operacionais*<br/>
 *Prof. Flávio Luiz Schiavoni*
