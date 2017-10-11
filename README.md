@@ -1,5 +1,6 @@
 ## Biblioteca Dinâmica
 
+<br>
 **Abra o terminal e rode os comandos abaixo para instalação e execução de uma aplicação que utiliza a biblioteca:**
 
 - Para instalar a biblioteca em seu sistema:
