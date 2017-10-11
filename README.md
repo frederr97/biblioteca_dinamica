@@ -1,4 +1,4 @@
-# BibliotecaDinamicaSO
+## Biblioteca Dinâmica
 
 **Abra o terminal e rode os comandos abaixo para instalação e execução de uma aplicação que utiliza a biblioteca:**
 
@@ -23,12 +23,6 @@ make clean
 `
 
 
-E isso é tudo.
-
-
-
-*Frederico Resende*
-
-*Disciplina de Sistemas Operacionais*
-
+*Frederico Resende*<br/>
+*Disciplina de Sistemas Operacionais*>br/>
 *Prof. Flávio Luiz Schiavoni*
