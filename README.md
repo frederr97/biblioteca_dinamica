@@ -21,7 +21,7 @@ make run
 `
 make clean
 `
-
+<br><br>
 
 *Frederico Resende*<br/>
 *Disciplina de Sistemas Operacionais*<br/>
